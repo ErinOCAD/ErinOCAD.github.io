@@ -47,6 +47,12 @@ div{
 	left: 60px;
 	
 }
+.bookshelf {
+	position: absolute;
+	top:750px;
+	right: 100px;
+	
+}
 .container2 {
 	
 	display: flex;

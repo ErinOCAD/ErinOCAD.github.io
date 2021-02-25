@@ -1,0 +1,9 @@
+
+h1{}
+h2{}
+body {
+	  background-image: url("desk.jpg");
+	height: 1000px;
+	width: 1440px;
+	background-size: 1440px 1000px;
+}
