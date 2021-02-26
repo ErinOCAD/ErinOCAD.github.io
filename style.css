@@ -63,6 +63,11 @@ div{
 	left: 600px;
 	right: 0px;
 }
+#greeting {
+	position: absolute;
+	top: -150px;
+	left: 105px;
+}
 
 .head {
 	width:100px;
