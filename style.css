@@ -32,6 +32,12 @@ div{
 	height: 300px;
 	
 }
+.watering{
+	position: absolute;
+	top: 700px;
+	left: 700 px;
+	
+}
 
 #plant1{
 	position:absolute;
@@ -40,8 +46,42 @@ div{
 }
 #plant2{
 	position:absolute;
-	top:200px;
-	left:800px;
+	top:20px;
+	left:605px;
+	
+}
+
+
+#poster1{
+	position:absolute;
+	top:518px;
+	left: 1076px;
+	height: 100px;
+	width: 100px;
+}
+
+#poster2 {
+	position:absolute;
+	top:390px;
+	left:1070px;
+	height:100px;
+	
+}
+
+#poster3{
+	position:absolute;
+	top:225px;
+	left:1100px;
+	height:140px;
+	width:
+}
+
+#movie {
+	position: absolute;
+	top:720px;
+	left: 1005px;
+	height: 80px;
+	width:150px;
 }
 
 #stop {
@@ -58,8 +98,8 @@ div{
 }
 .painting {
 	position: absolute;
-	top: 580px;
-	left: 60px;
+	top: 730px;
+	left: 70px;
 	
 }
 .bookshelf {

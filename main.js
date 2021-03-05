@@ -1,14 +1,17 @@
-var img = document.getElementById("plant");
-img.addEventListener("click", function()
+var water = document.getElementById("plant");
+water.addEventListener("click", function()
 	{
 	
-	if(img.src != "waterforever.gif") {
-		img.setAttribute("src", "waterforever.gif");
+	if(water.src != "waterforever.gif") {
+		water.setAttribute("src", "waterforever.gif");
+		
+		
 	}
 	var stop = document.getElementById ("stop");
 	stop.addEventListener("click", function()
 	{
-		img.setAttribute("src", "plant.png");
+		water.setAttribute("src", "plant.png");
+		
 	})});
 
 var bunny = document.getElementById("bunny");
