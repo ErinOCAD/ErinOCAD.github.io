@@ -1,0 +1,24 @@
+
+body, html{
+	height: 700px;
+	width: 1250px;
+	background-size: cover;
+	 background-repeat: no-repeat;
+	background-image: url("kitchen.jpg");
+  
+}
+
+#glass {
+	position: absolute;
+	top: 550px;
+	left:420px;
+}
+
+#bottle {
+	position: absolute;
+	top: 510px;
+	left: 650px;
+}
+#bg{
+	
+}

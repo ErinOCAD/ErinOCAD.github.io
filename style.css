@@ -73,7 +73,14 @@ div{
 	top:225px;
 	left:1100px;
 	height:140px;
-	width:
+	
+}
+
+#escape {
+	position:absolute;
+	top:190px;
+	left:1320px;
+	height:80px;
 }
 
 #movie {
@@ -100,8 +107,8 @@ div{
 	position: absolute;
 	top: 730px;
 	left: 70px;
-	
 }
+
 .bookshelf {
 	position: absolute;
 	top:750px;

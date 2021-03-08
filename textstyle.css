@@ -2,13 +2,18 @@
 h1{
 	font-family: "Gill Sans";
 	font-weight: lighter;
+	font-size: 25pt;
 	line-height: 25pt;
+	padding-left: 200px;
+	margin-top: 200px;
 }
 h2 {
 	font-family: "Gill Sans";
+	font-size: 50pt;
 	font-weight:lighter;
 	line-height:25pt;
-	l
+	padding-left: 120px;
+	padding-bottom:80px;
 }
 
 
@@ -16,14 +21,19 @@ body{
 	font-family: "Gill Sans";
 	font-weight: lighter;
 	  font-size: 11pt;
-  line-height: 18pt;
-	column-count: 1;}
+  line-height: 16pt;
+	column-count: 1;
+}
 	
 .textbox {
 	width:40%;
 	height: 800px;
 	float:left;
 	position: static;
+	padding-left: 120px;
+	padding-right: 50px;
+	margin-bottom: 200px;
+
 
 }
 

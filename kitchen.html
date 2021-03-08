@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<head>
+	<link href="kitchen.css" rel="stylesheet">
+<meta charset="UTF-8">
+<title></title>
+	
+	<script>
+	
+		function makewine(){
+			document.getElementById("glass").style.display = "block";
+			var wine = new Audio("wine.m4a");
+			wine.play();
+		}
+	</script>
+</head>
+
+<body>
+	
+	<a id="back" href="index.html"> back to studio </a>
+  
+	<div id="bg"></div>
+	
+	
+	<div id="glass">
+			<img src= "wineglass.png" width="100px" height="100px">		
+		</div> 
+	
+	<div id="bottle">
+			<img src= "winebottle.png" width="105px" height="135px" onClick="makewine()" >
+	</div>
+</body>
+</html>
